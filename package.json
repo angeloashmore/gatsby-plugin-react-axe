@@ -1,7 +1,7 @@
 {
   "name": "gatsby-plugin-react-axe",
   "version": "0.1.0",
-  "description": "Gatsby plugin for providing react-axe a11y testing",
+  "description": "Gatsby plugin that integrates react-axe for a11y testing",
   "scripts": {
     "format": "prettier --write 'gatsby-browser.js' 'README.md'"
   },

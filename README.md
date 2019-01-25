@@ -1,6 +1,6 @@
 # gatsby-plugin-react-axe
 
-Gatsby plugin for providing [react-axe][react-axe] a11y testing.
+Gatsby plugin that integrates [react-axe][react-axe] for a11y testing
 
 ## Install
 
