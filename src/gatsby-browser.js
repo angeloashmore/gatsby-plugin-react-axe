@@ -1,7 +1,7 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
 
-export const onClientEntry = async (_, pluginOptions = {}) => {
+export const onInitialClientRender = async (_, pluginOptions = {}) => {
   const { showInProduction, axeOptions } = {
     showInProduction: false,
     axeOptions: {},
