@@ -2,14 +2,15 @@ import React from 'react'
 import ReactDOM from 'react-dom'
 
 export const onInitialClientRender = async (_, pluginOptions = {}) => {
-  const { showInProduction, axeOptions } = {
+  const { showInProduction, axeOptions, axeContext } = {
     showInProduction: false,
     axeOptions: {},
+    axeContext: {},
     ...pluginOptions,
   }
 
   if (process.env.NODE_ENV === 'development' || showInProduction) {
     const { default: axe } = await import('react-axe')
-    axe(React, ReactDOM, 1000, axeOptions)
+    axe(React, ReactDOM, 1000, axeOptions, axeContext)
   }
 }

@@ -27,6 +27,11 @@ module.exports = {
         axeOptions: {
           // Your axe-core options.
         },
+        // Context to pass to axe-core.
+        // See: https://github.com/dequelabs/axe-core/blob/master/doc/API.md#context-parameter
+        axeContext: {
+          // Your axe-core context.
+        }
       },
     },
   ],
