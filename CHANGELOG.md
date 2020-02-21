@@ -1,6 +1,18 @@
-# Change Log
+# Changelog
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
+
+## [0.4.0](https://github.com/angeloashmore/gatsby-plugin-react-axe/compare/v0.3.0...v0.4.0) (2020-02-21)
+
+
+### Features
+
+* add react-axe optional context ([#7](https://github.com/angeloashmore/gatsby-plugin-react-axe/issues/7)) ([348b0a4](https://github.com/angeloashmore/gatsby-plugin-react-axe/commit/348b0a413400a07c3b05a6e9d73f36b58e418bff))
+
+
+### Bug Fixes
+
+* update dependencies ([6129b3b](https://github.com/angeloashmore/gatsby-plugin-react-axe/commit/6129b3b3f2ed28371c95c0f05ec3d672b8df7fe7))
 
 <a name="0.3.0"></a>
 

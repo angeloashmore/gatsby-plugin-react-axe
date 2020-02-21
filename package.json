@@ -1,6 +1,6 @@
 {
   "name": "gatsby-plugin-react-axe",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "description": "Gatsby plugin that integrates react-axe for a11y testing",
   "scripts": {
     "prepublish": "npm run build",
