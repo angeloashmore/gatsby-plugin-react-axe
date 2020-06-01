@@ -5,7 +5,7 @@ export const onInitialClientRender = async (_, pluginOptions = {}) => {
   const { showInProduction, axeOptions, axeContext } = {
     showInProduction: false,
     axeOptions: {},
-    axeContext: {},
+    axeContext: undefined,
     ...pluginOptions,
   }
 
