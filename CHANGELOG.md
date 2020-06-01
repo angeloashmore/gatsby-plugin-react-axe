@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.4.1](https://github.com/angeloashmore/gatsby-plugin-react-axe/compare/v0.4.0...v0.4.1) (2020-06-01)
+
+
+### Bug Fixes
+
+* [#8](https://github.com/angeloashmore/gatsby-plugin-react-axe/issues/8) - axe.run arguments are invalid ([#9](https://github.com/angeloashmore/gatsby-plugin-react-axe/issues/9)) ([eaa47a4](https://github.com/angeloashmore/gatsby-plugin-react-axe/commit/eaa47a45941f92c66baa02c7de0f3c2ea86703b2))
+
 ## [0.4.0](https://github.com/angeloashmore/gatsby-plugin-react-axe/compare/v0.3.0...v0.4.0) (2020-02-21)
 
 
