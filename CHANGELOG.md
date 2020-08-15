@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [0.5.0](https://github.com/angeloashmore/gatsby-plugin-react-axe/compare/v0.4.1...v0.5.0) (2020-08-15)
+
+
+### Features
+
+* add debounce to options ([8424f56](https://github.com/angeloashmore/gatsby-plugin-react-axe/commit/8424f567baeb48a2ad568717638f54ef00e87a42))
+
 ### [0.4.1](https://github.com/angeloashmore/gatsby-plugin-react-axe/compare/v0.4.0...v0.4.1) (2020-06-01)
 
 
