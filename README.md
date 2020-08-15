@@ -19,6 +19,9 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-react-axe',
       options: {
+        // Number of milliseconds to wait for component updates to cease before 
+        // performing an analysis of all the changes.
+        debounce: 1000,
         // Integrate react-axe in production. This defaults to false.
         showInProduction: false,
 
